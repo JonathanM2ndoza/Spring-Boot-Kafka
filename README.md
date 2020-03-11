@@ -6,7 +6,7 @@
 
 https://kafka.apache.org/intro.html
 
-Kafka Architecture
+## Kafka Architecture
 
 ![Screenshot](prtsc/kafka-00.1.jpg)
 
