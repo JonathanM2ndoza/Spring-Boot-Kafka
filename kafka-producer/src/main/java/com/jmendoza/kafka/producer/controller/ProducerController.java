@@ -22,7 +22,7 @@ public class ProducerController {
 
     @PostMapping("/sendMessage")
     public String sendMessage(@Valid @RequestBody User user) {
-        kafkaTemplate.send(env.getRequiredProperty("kafka.topic"), user);
+        kafkaTemplate.send(env.getRequiredProperty("kafka.topic"), 0, String.valueOf(user.getId()), user);
         return "Published successfully";
     }
 }
