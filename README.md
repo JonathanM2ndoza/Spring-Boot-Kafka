@@ -50,4 +50,10 @@ View messages produced on topic.test (after)
 
 ### 2.- Example of Consumer 
 
+View messages produced on topic.test 
+
+
+
+
+
 
