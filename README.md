@@ -62,5 +62,7 @@ Consume all message of topic.test
  
 ![Screenshot](prtsc/kafka-04.2.png)
 
+![Screenshot](prtsc/kafka-04.3.png)
+
 
 
