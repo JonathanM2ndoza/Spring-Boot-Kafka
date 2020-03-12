@@ -52,8 +52,15 @@ View messages produced on topic.test (after)
 
 View messages produced on topic.test 
 
+![Screenshot](prtsc/kafka-04.png)
 
+Run Spring Boot Application
 
+![Screenshot](prtsc/kafka-04.1.png)
+
+Consume all message of topic.test 
+ 
+![Screenshot](prtsc/kafka-04.2.png)
 
 
 
